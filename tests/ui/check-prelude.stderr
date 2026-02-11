@@ -1,0 +1,8 @@
+[src/hir_lints/not_using_prelude.rs:102:18] defs = {
+    DefId(1:95 ~ std[a281]::prelude::rust_2018): crate1,
+    DefId(1:93 ~ std[a281]::prelude::rust_2015): crate1,
+    DefId(1:97 ~ std[a281]::prelude::rust_2021): crate1,
+    DefId(1:4 ~ std[a281]::prelude::v1): crate1,
+    DefId(1:100 ~ std[a281]::prelude::rust_2024): crate1,
+    DefId(1:103 ~ std[a281]::prelude::rust_future): crate1,
+}
